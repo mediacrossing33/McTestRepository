@@ -9,7 +9,7 @@
    body{
     margin: 0;
     padding: 50px 0 0;
-    background: #1e1e1e;
+    background: #000;
     font-family: Arial;
     font-size: 160%;
     text-align: center;
@@ -32,7 +32,7 @@
 	
 	<img src="images/logo-mediacrossing.png" alt="Mediacrossing" />
 	
-	<p><a href="http://www.mediacrossing.fr" title="mediacrossing">//mediacrossing: is here !</a></p>
+	<p>//mediacrossing: is here !</p>
 		
 </body>
 
