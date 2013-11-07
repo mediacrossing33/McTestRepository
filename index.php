@@ -14,6 +14,7 @@
     font-size: 120%;
     text-align: center;
     color: #000;
+    text-align: center;
    }
    
    img{
@@ -23,6 +24,9 @@
    a{
     border: 10px solid blue;
     padding: 10px;
+    color: red;
+    background: blue;
+    border: 1px solid red;
    }
 
 </style>
