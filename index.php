@@ -22,6 +22,7 @@
    
    a{
     border: 10px solid blue;
+    padding: 10px;
    }
 
 </style>
