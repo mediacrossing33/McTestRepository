@@ -8,10 +8,10 @@
 <style>
    body{
     margin: 0;
-    padding: 50px 0 0;
+    padding: 20px 0 0;
     background: #1e1e1e;
     font-family: Arial;
-    font-size: 160%;
+    font-size: 120%;
     text-align: center;
     color: #000;
    }
