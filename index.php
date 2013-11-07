@@ -13,7 +13,7 @@
     font-family: Arial;
     font-size: 160%;
     text-align: center;
-    color: #fff;
+    color: #000;
    }
    
    img{
