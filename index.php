@@ -21,7 +21,7 @@
    }
    
    a{
-    border: 10px solid red;
+    border: 10px solid blue;
    }
 
 </style>
