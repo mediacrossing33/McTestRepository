@@ -26,6 +26,7 @@
     padding: 10px;
     color: red;
     background: blue;
+    border: 1px solid red;
    }
 
 </style>
