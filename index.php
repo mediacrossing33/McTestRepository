@@ -14,6 +14,7 @@
     font-size: 120%;
     text-align: center;
     color: #000;
+    text-align: center;
    }
    
    img{
