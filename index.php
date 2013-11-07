@@ -32,7 +32,7 @@
 	
 	<img src="images/logo-mediacrossing.png" alt="Mediacrossing" />
 	
-	<p><a href="http://www.mediacrossing.fr" title="mediacrossing" target="_blank">//mediacrossing: is here !</a></p>
+	<p><a href="http://www.mediacrossing.fr" title="mediacrossing" target="_blank">//mediacrossing: is already here !</a></p>
 		
 </body>
 
