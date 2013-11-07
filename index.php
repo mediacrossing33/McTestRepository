@@ -25,6 +25,7 @@
     border: 10px solid blue;
     padding: 10px;
     color: red;
+    background: blue;
    }
 
 </style>
