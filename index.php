@@ -48,11 +48,11 @@
 	
 	<p><a href="http://www.mediacrossing.fr" title="mediacrossing" target="_blank">//mediacrossing: is already here !</a></p>
 	
-	<p>sa bosse sur le fihcier</p>
+	<p>sa bosse sur le fichier</p>
 
   <p>rt bosse on the file dans sa branche</p>
 
-  <p>rt faite sa vie ds sa brache</p>
+  <p>rt fait sa vie dans sa branche</p>
 
   <p>rt dit coucou</p>
 	
