@@ -39,6 +39,8 @@
 </head>
 
 <body>
+
+  <h1>The title</h1>
 	
 	<img src="images/logo-mediacrossing.png" alt="Mediacrossing" />
 	
