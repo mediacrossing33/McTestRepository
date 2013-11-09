@@ -28,6 +28,11 @@
     background: blue;
     border: 1px solid red;
    }
+   
+   p{
+    padding: 10px;
+    color: red;
+   }
 
 </style>
 
